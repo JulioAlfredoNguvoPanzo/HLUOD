@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>Prime Engineering | Engineering Without Limits</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+
+<body style="margin:0; font-family:Poppins, sans-serif; background:#0b0b0b; color:white; text-align:center;">
+
+  <header style="padding:60px 20px; background:#000;">
+    <h1 style="font-family:Orbitron; font-size:40px; color:#d4af37;">
+      PRIME ENGINEERING
+    </h1>
+    <p style="font-size:18px; letter-spacing:2px;">
+      Engineering Without Limits
+    </p>
+  </header>
+
+  <section style="padding:40px;">
+    <h2>Bem-vindo à Prime Engineering</h2>
+    <p>
+      Plataforma educacional digital para ensinar Engenharia Elétrica,
+      Eletromecânica, Mecânica Automobilística, Matemática e Física.
+    </p>
+  </section>
+
+  <footer style="padding:20px; background:#000; font-size:14px;">
+    <p>Administrador: Júlio Panzo</p>
+    <p>Email: julionguvo4@gmail.com</p>
+    <p>© 2026 Prime Engineering</p>
+  </footer>
+
+</body>
+</html>
